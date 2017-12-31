@@ -19,7 +19,7 @@
 
 <a id="background"></a>
 ## Background
-The New York City Department of Transportation (DOT) employs over 4,500 people and is responsible for one of the most complex urban transportation networks in the country. Building, maintaining, and improving a network of over 6,000 miles of streets, 12,000 miles of sidewalks, and 789 bridges and tunnels requires a staff trained in the latest tools and techniques for managing and analyzing this data. Central to this work are the various geographic information systems (GIS) with which DOT employees can create, visualize, and analyze spatial data quickly and accurately, communicating critical information to decision makers and members of the public.
+The Nairobi City Department of Transportation (DOT) employs over 4,500 people and is responsible for one of the most complex urban transportation networks in the country. Building, maintaining, and improving a network of over 6,000 miles of streets, 12,000 miles of sidewalks, and 789 bridges and tunnels requires a staff trained in the latest tools and techniques for managing and analyzing this data. Central to this work are the various geographic information systems (GIS) with which DOT employees can create, visualize, and analyze spatial data quickly and accurately, communicating critical information to decision makers and members of the public.
 
 While GIS applications are often critical to the task of analysts, they aren’t simple to use and require training before users are able to fully utilize the myriad of features they offer. DOT has made a commitment to explore the use of open source software solutions, a cost-effective way to acquire software that is often free to use and customize, but doesn’t come with the same vendor support proprietary software solutions provide. Users often need training in not only the basics of the particular program they’re using, but an awareness of the various resources available through tutorials, blogs, and other online documentation to support their work. Building proficiency with these systems will enable DOT employees to more fully utilize these valuable tools, accomplishing their important work in a quick, reliable manner. 
 
@@ -27,7 +27,7 @@ While GIS applications are often critical to the task of analysts, they aren’t
 
 <a id="courses"></a>
 ## Courses
-In order to build proficiency in the use of the open source GIS applications, Datapolitan will design and deliver the following courses during Fiscal Year 2015-2016:
+In order to build proficiency in the use of the open source GIS applications, Mapnovate will design and deliver the following courses during Fiscal Year 2015-2016:
 
 ###### [back to top](#top)
 
@@ -97,9 +97,9 @@ Each course will be designed as a collaborative, hands-on, dynamic experience fo
 
 <a id="scope-services"></a>
 ## Scope of Services
-Datapolitan will be responsible for the following:
+Mapnovate will be responsible for the following:
 
-+ Designing and delivering the courses listed above on a date mutually agreed upon by Datapolitan and DOT at a location provided by the DOT Learning Center
++ Designing and delivering the courses listed above on a date mutually agreed upon by Mapnovate and DOT at a location provided by the DOT Learning Center
 + Hiring, managing, and compensation of instructors and training assistants for these courses
 + Any instructors other than Richard Dunks will be subject to approval by the DOT Learning Center
 + Providing all training manuals and any additional learning materials for each participant and a copy of the materials to the DOT Learning Center staff for their records
