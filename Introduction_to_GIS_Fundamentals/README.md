@@ -1,6 +1,6 @@
 A class in basic fundamentals of GIS using [QGIS](http://www.qgis.org/). 
 
-Slides are available [here](http://~/Introduction_to_GIS_Fundamentals).
+Slides are available [here](http://qgis-training\Introduction_to_GIS_Fundamentals).
 
 ## Outline for the Class
 
